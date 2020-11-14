@@ -1,6 +1,6 @@
 <strong>Unity Big Sur Icons</strong><br>
 Replacement icons for Unity and Unity Hub that match macOS Big Sur.<br>
-
+<img src="https://github.com/dominickjohn/unity-big-sur-icons/blob/main/Icon-Preview.png?raw=true"/><br>
 <strong>To Install:</strong>
 - Download both .icns files.
 - Open Unity Hub and a project using the version of Unity you wish to change the icon for.
